@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mainstay-Noah-Huppert, this is my work GitHub account (checkout @Noah-Huppert for my personal)
+- 👀 I’m interested in human rights and computer science
+- 🌱 I am constantly learning as I journey through life
+- 💞️ I’m looking to collaborate on projects for the Mainstay company
+- 📫 You can reach me at noahhuppert@admithub.com
