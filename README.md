@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Mainstay-Noah-Huppert, this is my work GitHub account 
-- 🧔 My personal account is [@Noah-Huppert](https://github.com/Noah-Huppert/)
-- 👀 I’m interested in human rights and computer science
-- 🌱 I am constantly learning
-- 💞️ I’m looking to collaborate on projects for the Mainstay company
-- 📫 You can reach me at noah@mainstay.com
+This was the work account for Noah Huppert while he was employed at Mainstay. He no longer works at Mainstay nor controls this account.  
+
+See his personal account [@Noah-Huppert](https://github.com/Noah-Huppert/).
